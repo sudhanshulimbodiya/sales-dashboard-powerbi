@@ -26,7 +26,8 @@ This project presents a Sales Performance Dashboard built using Power BI. It pro
 
 ## Dashboard Preview
 
-file:///C:/Users/asus/AppData/Local/Temp/Power%20BI%20Desktop/print-job-87b463fa-568d-4e1d-b83f-df99cc3a1102/superstore_dashboard.pdf
+<img width="1657" height="958" alt="image" src="https://github.com/user-attachments/assets/735d5aae-4464-47bd-9813-3699f82ac110" />
+
 
 ## Files Included
 
