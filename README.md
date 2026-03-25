@@ -4,6 +4,13 @@
 
 This project presents a Sales Performance Dashboard built using Power BI. It provides insights into sales, profit, and customer trends using the Superstore dataset.
 
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- DAX (Profit Margin)
+- Dashboard Design
+- Business Insights
+  
 ## Key Features
 
 * Total Sales, Profit, and Orders KPIs
